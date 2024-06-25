@@ -17,15 +17,5 @@ public class PokeData
 
     public List<PokemonMove> PokemonMoves;
     public string TextureName;
-
-    public PokeData()
-    {
-        PokemonMoves = new List<PokemonMove>();
-
-        for (int i = 0; i < 4; i++)
-        {
-            PokemonMoves.Add(new PokemonMove());    
-        }
-        
-    }
+    
 }

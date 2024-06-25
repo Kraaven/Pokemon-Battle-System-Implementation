@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -9,17 +10,37 @@ public class Manager : MonoBehaviour
 {
     public static string Path;
 
-    public string loadPokemon;
+    //public string loadPokemon;
 
     public Pokemon PokemonPrefab;
     // Start is called before the first frame update
     void Start()
     {
         Path = Application.streamingAssetsPath + "/Textures/";
+        string[] LoadedFiles;
+        try
+        {
+            LoadedFiles = Directory.GetFiles(Application.streamingAssetsPath + "/Pokemon/", "*.json");
+        }
+        catch (Exception e)
+        {
+            Logger.LogEvent("No Files Found");
+            return;
+        }
+
+        foreach (var loadedFile in LoadedFiles)
+        {
+            try
+            {
+                Logger.LogEvent($"Trying to load data from File: {System.IO.Path.GetFileName(loadedFile)}");
+                Instantiate(PokemonPrefab,transform.position,transform.rotation).CreatePokemon(JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(loadedFile)));
+            }
+            catch (Exception e)
+            {
+                Logger.LogEvent($"Failed to load Pokemon data from File: {System.IO.Path.GetFileName(loadedFile)}\n\tMaybe some of your values are invalid?");
+            } 
+        }
         
-        File.WriteAllText(Application.streamingAssetsPath+"/Pokemon/Template.json", JsonConvert.SerializeObject(new PokeData(),Formatting.Indented));
-        
-        Instantiate(PokemonPrefab,transform.position,transform.rotation).CreatePokemon(JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(Application.streamingAssetsPath+$"/Pokemon/{loadPokemon}.json")));
         
     }
 

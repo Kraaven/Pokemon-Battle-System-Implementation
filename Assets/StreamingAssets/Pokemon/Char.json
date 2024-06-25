@@ -1,6 +1,6 @@
 {
-  "Name": "Template",
-  "Type": "Normal",
+  "Name": "Charmander",
+  "Type": "Fire",
   "Health": 120,
   "Attack": 24,
   "Defense": 35,
@@ -34,12 +34,12 @@
     },
     {
       "MoveName": "Move 4",
-      "MoveType": "Normal",
+      "MoveType": "Fire",
       "IsSpecial": false,
       "Damage": 10,
       "Accuracy": 15,
       "InflictedEffect": "None"
     }
   ],
-  "TextureName": "Template.png"
+  "TextureName": "Charmander.png"
 }
