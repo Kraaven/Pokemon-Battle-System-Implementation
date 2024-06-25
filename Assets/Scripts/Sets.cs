@@ -1,3 +1,5 @@
+using System;
+
 public enum PokemonType
 {
     Normal,
@@ -15,6 +17,7 @@ public enum StatusEffect
     
 }
 
+[Serializable]
 public class PokemonMove
 {
     public string MoveName;

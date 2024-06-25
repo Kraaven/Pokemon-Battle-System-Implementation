@@ -40,9 +40,10 @@ public class Logger : MonoBehaviour
     public static void LogEvent(string evt)
     {
         Gamelogger.WriteLine(evt);
+        Gamelogger.Flush();
     }
 
-    public void CloseLogger()
+    public static void CloseLogger()
     {
         Gamelogger.Close();
     }

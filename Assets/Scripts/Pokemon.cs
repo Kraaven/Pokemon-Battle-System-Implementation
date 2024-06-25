@@ -15,7 +15,9 @@ public class Pokemon : MonoBehaviour
         PokemonData = data;
         PokeSpriteRenderer = GetComponent<SpriteRenderer>();
 
-    
+
+        #region LoadData
+        
         if (data.Name == null)
         {
             Logger.LogEvent("Pokemon Name does not exist, Abort Creation");
@@ -48,6 +50,11 @@ public class Pokemon : MonoBehaviour
         {
             Logger.LogEvent($"Pokemon {data.Name} registered abnormal value '0'");
         }
+        
+        if (data.Speed == 0)
+        {
+            Logger.LogEvent($"Pokemon {data.Name} registered abnormal value '0'");
+        }
 
         Logger.LogEvent($"Loaded Pokemon {data.Name} Values");
         if (data.PokemonMoves.Count > 4)
@@ -71,7 +78,11 @@ public class Pokemon : MonoBehaviour
         
 
         PokeSpriteRenderer.sprite = pokeImage;
-        transform.localScale = Vector3.one * 10;
+        transform.localScale = Vector3.one * 4;
+        
+        #endregion
+        
+        
 
     }
     
