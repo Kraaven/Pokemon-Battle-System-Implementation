@@ -9,7 +9,7 @@ public class Logger : MonoBehaviour
     // Start is called before the first frame update
 
     private static StreamWriter Gamelogger;
-    void Start()
+    void OnEnable()
     {
         if (!Directory.Exists(Application.dataPath + "/Logs"))
         {

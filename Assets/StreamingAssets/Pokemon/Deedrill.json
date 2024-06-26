@@ -1,0 +1,61 @@
+{
+  "Name": "Bee Drill",
+  "Type": "Bug",
+  "Health": 0,
+  "Attack": 24,
+  "Defense": 35,
+  "SpecialAttack": 15,
+  "SpecialDefense": 0,
+  "Speed": 30,
+  "PokemonMoves": [
+    {
+      "MoveName": "Move 1",
+      "MoveType": "Bug",
+      "IsSpecial": false,
+      "Damage": 10,
+      "Accuracy": 15,
+      "InflictedEffect": "None"
+    },
+    {
+      "MoveName": "Move 2",
+      "MoveType": "Normal",
+      "IsSpecial": false,
+      "Damage": 10,
+      "Accuracy": 15,
+      "InflictedEffect": "None"
+    },
+    {
+      "MoveName": "Move 3",
+      "MoveType": "Normal",
+      "IsSpecial": false,
+      "Damage": 10,
+      "Accuracy": 15,
+      "InflictedEffect": "None"
+    },
+    {
+      "MoveName": "Move 3",
+      "MoveType": "Normal",
+      "IsSpecial": false,
+      "Damage": 10,
+      "Accuracy": 15,
+      "InflictedEffect": "None"
+    },
+    {
+      "MoveName": "Move 3",
+      "MoveType": "Normal",
+      "IsSpecial": false,
+      "Damage": 10,
+      "Accuracy": 15,
+      "InflictedEffect": "None"
+    },
+    {
+      "MoveName": "Move 3",
+      "MoveType": "Normal",
+      "IsSpecial": false,
+      "Damage": 10,
+      "Accuracy": 15,
+      "InflictedEffect": "None"
+    }
+  ],
+  "TextureName": "beedrill.png"
+}

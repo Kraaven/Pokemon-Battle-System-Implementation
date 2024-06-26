@@ -3,17 +3,16 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using UnityEngine.UI;
 
-[RequireComponent(typeof(SpriteRenderer))]
 public class Pokemon : MonoBehaviour
 {
     private PokeData PokemonData;
-    private SpriteRenderer PokeSpriteRenderer;
     
     public void CreatePokemon(PokeData data)
     {
         PokemonData = data;
-        PokeSpriteRenderer = GetComponent<SpriteRenderer>();
+        
 
 
         #region LoadData
@@ -75,10 +74,11 @@ public class Pokemon : MonoBehaviour
             Destroy(gameObject);
             return;
         }
-        
 
-        PokeSpriteRenderer.sprite = pokeImage;
-        transform.localScale = Vector3.one * 4;
+        var display = transform.GetChild(0).gameObject;
+        display.GetComponent<RectTransform>().localScale *= 0.8f;
+        display.GetComponent<Image>().sprite = pokeImage;
+        // transform.localScale = Vector3.one * 4;
         
         #endregion
         

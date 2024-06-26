@@ -5,7 +5,8 @@ public enum PokemonType
     Normal,
     Fire,
     Water,
-    Leaf
+    Leaf,
+    Bug
 }
 
 public enum StatusEffect
