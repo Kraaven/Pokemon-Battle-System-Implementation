@@ -41,11 +41,14 @@ public class Manager : MonoBehaviour
             try
             {
                 Logger.LogEvent($"Trying to load data from File: {System.IO.Path.GetFileName(loadedFile)}");
-                var P = Instantiate(PokemonPrefab,transform.position,transform.rotation,Grid);
-                P.CreatePokemon(JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(loadedFile)));
-                if (P != null)
+                for (int i = 0; i < 60; i++)
                 {
-                    Pokedex.Add(P);
+                    var P = Instantiate(PokemonPrefab,transform.position,transform.rotation,Grid);
+                    P.CreatePokemon(JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(loadedFile)));
+                    if (P != null)
+                    {
+                        Pokedex.Add(P);
+                    }
                 }
             }
             catch (Exception e)
