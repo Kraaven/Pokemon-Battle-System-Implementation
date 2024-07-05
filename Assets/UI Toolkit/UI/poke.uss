@@ -116,6 +116,11 @@
     margin: 4px;
     width: 45%;
     -unity-text-align: middle-center;
+    height: 48px;
+    white-space: normal; /* Allows text to wrap */
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .stat-row {

@@ -41,7 +41,7 @@ public class UI_ValueAllocator : MonoBehaviour
         {
             root.Q<Label>($"move{i+1}").text = SampleData.PokemonMoves[i].MoveName;
             root.Q<Label>($"move{i + 1}").style.backgroundColor = SampleData.PokemonMoves[i].MoveType.GetColor();
-            AdjustFontSize(root.Q<Label>($"move{i + 1}"));
+            //AdjustFontSize(root.Q<Label>($"move{i + 1}"));
         }
 
         root.Q<Image>("pokemon-image").sprite = FindObjectOfType<Manager>().Pokedex[0].transform.GetChild(0).gameObject
@@ -69,6 +69,8 @@ public class UI_ValueAllocator : MonoBehaviour
             fontSize--;
             label.style.fontSize = fontSize;
         }
+        
+        Debug.Log(fontSize);
         
     }
 
