@@ -2,12 +2,13 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Pokemon : MonoBehaviour
 {
-    private PokeData PokemonData;
+    public PokeData PokemonData;
     
     public void CreatePokemon(PokeData data)
     {
@@ -79,12 +80,23 @@ public class Pokemon : MonoBehaviour
         display.GetComponent<RectTransform>().localScale *= 0.8f;
         display.GetComponent<Image>().sprite = pokeImage;
         // transform.localScale = Vector3.one * 4;
-        
+
         #endregion
-        
-        
+
+
 
     }
-    
-    
+
+    public void OnHover()
+    {
+        Manager.SetLabel(GetComponent<RectTransform>().position,PokemonData.Name);
+        Debug.Log($"Show {PokemonData.Name}");
+    }
+
+    public void OnExit()
+    {
+        Manager.CloseLabel();
+    }
+
+
 }

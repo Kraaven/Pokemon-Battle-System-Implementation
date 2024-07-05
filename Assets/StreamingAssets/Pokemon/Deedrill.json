@@ -1,5 +1,6 @@
 {
   "Name": "Bee Drill",
+  "Region": "Kanto",
   "Type": "Bug",
   "Health": 0,
   "Attack": 24,

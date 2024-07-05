@@ -1,0 +1,131 @@
+.card {
+    background-color: rgb(255, 251, 235);
+    border-radius: 16px;
+    overflow: hidden;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    -unity-background-image-tint-color: rgb(0, 0, 0);
+}
+
+.header {
+    background-color: rgb(227, 53, 13);
+    color: white;
+    padding: 10px 16px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    font-size: 24px;
+    -unity-font-style: bold;
+}
+
+.number {
+    background-color: white;
+    color: rgb(227, 53, 13);
+    padding: 2px 8px;
+    border-radius: 5px;
+    font-size: 14px;
+    -unity-font-style: bold;
+}
+
+.content {
+    flex-direction: row;
+    padding: 16px;
+}
+
+.column {
+    flex: 1;
+    margin: 0 8px;
+}
+
+.pokemon-image {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+.types {
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.type {
+    color: white;
+    padding: 4px 15px;
+    border-radius: 12px;
+    font-size: 14px;
+    -unity-font-style: bold;
+    margin: 0 4px;
+    -unity-text-align: middle-center;
+    justify-content: center;
+    align-items: center;
+    min-width: 60px; /* Adjust this value as needed */
+    height: 24px; /* Adjust this value as needed */
+}
+
+.section-title {
+    font-size: 18px;
+    -unity-font-style: bold;
+    margin-bottom: 8px;
+}
+
+.stat-grid {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.move-grid {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.stat-label {
+    width: 50%;
+    font-size: 14px;
+    margin: 2px 0;
+}
+
+.stat-value {
+    width: 50%;
+    font-size: 14px;
+    margin: 2px 0;
+}
+
+.stat-label {
+    color: rgb(102, 102, 102);
+}
+
+.stat-value {
+    -unity-text-align: upper-right;
+    -unity-font-style: bold;
+}
+
+.move {
+    color: white;
+    padding: 4px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    -unity-font-style: bold;
+    margin: 4px;
+    width: 45%;
+    -unity-text-align: middle-center;
+}
+
+.stat-row {
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: auto;
+}
+
+.pokemon-image {
+    width: 100%;
+    height: 100%;
+    align-self: center;
+}

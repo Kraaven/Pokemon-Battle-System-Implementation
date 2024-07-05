@@ -1,0 +1,1146 @@
+Trying to load data from File: Char.json
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Creating Pokemon Charmander
+Loaded Pokemon Charmander Values
+Loaded Pokemon Charmander Moves : 4
+Trying to load data from File: Deedrill.json
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Creating Pokemon Bee Drill
+Pokemon Bee Drill registered abnormal value '0'
+Pokemon Bee Drill registered abnormal value '0'
+Loaded Pokemon Bee Drill Values
+Pokemon Bee Drill has more than 4 moves. Trimming from last
+Trying to load data from File: Gyarados.json
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Creating Pokemon Gyarados
+Loaded Pokemon Gyarados Values
+Loaded Pokemon Gyarados Moves : 4
+Trying to load data from File: mewtwo.json
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Creating Pokemon Mewtwo
+Loaded Pokemon Mewtwo Values
+Loaded Pokemon Mewtwo Moves : 4
+Trying to load data from File: PokeSchema.json
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Pokemon Name does not exist, Abort Creation
+Creation of Pokemon Aborted
+Trying to load data from File: Template.json
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4
+Creating Pokemon Template
+Loaded Pokemon Template Values
+Loaded Pokemon Template Moves : 4

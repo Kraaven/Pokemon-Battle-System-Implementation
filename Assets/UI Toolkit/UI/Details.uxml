@@ -1,0 +1,61 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/UI/poke.uss?fileID=7433441132597879392&amp;guid=521c48c030bd84745992388cb21d69a5&amp;type=3#poke" />
+    <ui:VisualElement name="pokemon-card" class="card" style="align-self: center; justify-content: flex-start; align-items: stretch;">
+        <ui:VisualElement name="header" class="header">
+            <ui:Label name="pokemon-name" text="Name" class="title" />
+            <ui:Label name="pokemon-number" text="Kanto" class="number" />
+        </ui:VisualElement>
+        <ui:VisualElement name="content" class="content">
+            <ui:VisualElement name="left-column" class="column">
+                <ui:VisualElement name="types" class="types">
+                    <ui:Label name="type1" text="None" class="type" style="background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: space-around;" />
+                </ui:VisualElement>
+                <ui:Image name="pokemon-image" class="pokemon-image" />
+            </ui:VisualElement>
+            <ui:VisualElement name="right-column" class="column">
+                <ui:VisualElement name="stats" class="section">
+                    <ui:Label text="Stats" class="section-title" />
+                    <ui:VisualElement class="stat-grid" style="flex-wrap: wrap; justify-content: space-around;">
+                        <ui:VisualElement name="VisualElement" class="stat-column">
+                            <ui:VisualElement class="stat-row">
+                                <ui:Label text="HP" class="stat-label" />
+                                <ui:Label name="hp" class="stat-value" />
+                            </ui:VisualElement>
+                            <ui:VisualElement class="stat-row">
+                                <ui:Label text="Attack" class="stat-label" />
+                                <ui:Label name="attack" class="stat-value" />
+                            </ui:VisualElement>
+                            <ui:VisualElement class="stat-row">
+                                <ui:Label text="Defense" class="stat-label" />
+                                <ui:Label name="defense" class="stat-value" />
+                            </ui:VisualElement>
+                        </ui:VisualElement>
+                        <ui:VisualElement class="stat-column">
+                            <ui:VisualElement class="stat-row">
+                                <ui:Label text="Sp. Atk" class="stat-label" />
+                                <ui:Label name="sp-atk" class="stat-value" />
+                            </ui:VisualElement>
+                            <ui:VisualElement class="stat-row">
+                                <ui:Label text="Sp. Def" class="stat-label" />
+                                <ui:Label name="sp-def" class="stat-value" />
+                            </ui:VisualElement>
+                            <ui:VisualElement class="stat-row">
+                                <ui:Label text="Speed" class="stat-label" />
+                                <ui:Label name="speed" class="stat-value" />
+                            </ui:VisualElement>
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="moves" class="section">
+                    <ui:Label text="Moves" class="section-title" />
+                    <ui:VisualElement class="move-grid">
+                        <ui:Label name="move1" class="move" />
+                        <ui:Label name="move2" class="move" />
+                        <ui:Label name="move3" class="move" />
+                        <ui:Label name="move4" class="move" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

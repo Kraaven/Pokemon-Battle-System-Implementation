@@ -1,7 +1,7 @@
 {
-  "Name": "Gyarados",
+  "Name": "Mewtwo",
   "Region": "Kanto",
-  "Type": "Water",
+  "Type": "Normal",
   "Health": 120,
   "Attack": 24,
   "Defense": 35,
@@ -42,5 +42,5 @@
       "InflictedEffect": "None"
     }
   ],
-  "TextureName": "Gar.png"
+  "TextureName": "Mewtow.png"
 }

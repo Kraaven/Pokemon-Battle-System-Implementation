@@ -4,16 +4,19 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net.Mime;
 using Newtonsoft.Json;
+using TMPro;
 using UnityEngine;
 
 public class Manager : MonoBehaviour
 {
     public static string Path;
+    public static bool ContextMenu;
 
     //public string loadPokemon;
 
     public Pokemon PokemonPrefab;
     public Transform Grid;
+    public static GameObject Label;
 
     public List<Pokemon> Pokedex;
 
@@ -23,7 +26,10 @@ public class Manager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        ContextMenu = false;
         Path = Application.streamingAssetsPath + "/Textures/";
+        Label = GameObject.Find("Label Name");
+        Label.SetActive(false);
         string[] LoadedFiles;
         try
         {
@@ -41,15 +47,18 @@ public class Manager : MonoBehaviour
             try
             {
                 Logger.LogEvent($"Trying to load data from File: {System.IO.Path.GetFileName(loadedFile)}");
+
                 for (int i = 0; i < 60; i++)
                 {
-                    var P = Instantiate(PokemonPrefab,transform.position,transform.rotation,Grid);
+
+                    var P = Instantiate(PokemonPrefab, transform.position, transform.rotation, Grid);
                     P.CreatePokemon(JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(loadedFile)));
                     if (P != null)
                     {
                         Pokedex.Add(P);
                     }
                 }
+
             }
             catch (Exception e)
             {
@@ -83,4 +92,21 @@ public class Manager : MonoBehaviour
     void Update()
     {
     }
+
+    public static void SetLabel(Vector2 position, string name)
+    {
+        if (!ContextMenu)
+        {
+            Label.GetComponent<RectTransform>().position = position + new Vector2(0,0.96f);
+            Label.transform.GetChild(0).GetComponent<TMP_Text>().text = name;
+            Label.SetActive(true);    
+        }
+        
+    }
+
+    public static void CloseLabel()
+    {
+        Label.SetActive(false);
+    }
+    
 }

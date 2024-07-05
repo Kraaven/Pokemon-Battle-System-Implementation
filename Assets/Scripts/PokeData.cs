@@ -10,6 +10,7 @@ public class PokeData
 
     public string Name;
     public PokemonType Type;
+    public string Region;
 
     public int Health;
     public int Attack;

@@ -1,0 +1,71 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["*.json"],
+            "schema": {
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "type": "object",
+                "properties": {
+                    "Name": {
+                        "type": "string"
+                    },
+                    "Region": {
+                        "type": "string"
+                    },
+                    "Type": {
+                        "enum": ["Normal", "Fire", "Water", "Leaf", "Bug"]
+                    },
+                    "Health": {
+                        "type": "number"
+                    },
+                    "Attack": {
+                        "type": "number"
+                    },
+                    "Defense": {
+                        "type": "number"
+                    },
+                    "SpecialAttack": {
+                        "type": "number"
+                    },
+                    "SpecialDefense": {
+                        "type": "number"
+                    },
+                    "Speed": {
+                        "type": "number"
+                    },
+                    "PokemonMoves": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "MoveName": {
+                                    "type": "string"
+                                },
+                                "MoveType": {
+                                    "enum": ["Normal", "Fire", "Water", "Leaf", "Bug"]
+                                },
+                                "IsSpecial": {
+                                    "type": "boolean"
+                                },
+                                "Damage": {
+                                    "type": "number"
+                                },
+                                "Accuracy": {
+                                    "type": "number"
+                                },
+                                "InflictedEffect": {
+                                    "enum": ["None", "Poison", "Sleep", "Paralysis"]
+                                }
+                            },
+                            "required": ["MoveName", "MoveType", "IsSpecial", "Damage", "Accuracy", "InflictedEffect"]
+                        }
+                    },
+                    "TextureName": {
+                        "type": "string"
+                    }
+                },
+                "required": ["Name", "Region", "Type", "Health", "Attack", "Defense", "SpecialAttack", "SpecialDefense", "Speed", "PokemonMoves", "TextureName"]
+            }
+        }
+    ]
+}
