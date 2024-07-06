@@ -89,6 +89,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcfd39299b951c74a95fe152c433dca2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PokemonData:
+    Name: 
+    Type: 0
+    Region: 
+    Health: 0
+    Attack: 0
+    Defense: 0
+    SpecialAttack: 0
+    SpecialDefense: 0
+    Speed: 0
+    PokemonMoves: []
+    TextureName: 
 --- !u!1 &5615078771140164671
 GameObject:
   m_ObjectHideFlags: 0
@@ -212,7 +224,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 7551221544288070929}
         m_TargetAssemblyTypeName: Pokemon, Assembly-CSharp
-        m_MethodName: OnExit
+        m_MethodName: DisplayPokemon
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

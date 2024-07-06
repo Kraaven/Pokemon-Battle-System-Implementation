@@ -82,6 +82,8 @@ public class Pokemon : MonoBehaviour
         // transform.localScale = Vector3.one * 4;
 
         #endregion
+        
+        FindObjectOfType<Manager>().Pokedex.Add(this);
 
 
 
@@ -98,5 +100,9 @@ public class Pokemon : MonoBehaviour
         Manager.CloseLabel();
     }
 
+    public void DisplayPokemon()
+    {
+        Manager.FocusPokemon(this);
+    }
 
 }

@@ -6,11 +6,14 @@ using System.Net.Mime;
 using Newtonsoft.Json;
 using TMPro;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Manager : MonoBehaviour
 {
     public static string Path;
     public static bool ContextMenu;
+    public static GameObject PokeDetails;
+    public static GameObject Focus;
 
     //public string loadPokemon;
 
@@ -29,6 +32,9 @@ public class Manager : MonoBehaviour
         ContextMenu = false;
         Path = Application.streamingAssetsPath + "/Textures/";
         Label = GameObject.Find("Label Name");
+        PokeDetails = GameObject.Find("Stats");
+        Focus = GameObject.Find("Focus");
+        
         Label.SetActive(false);
         string[] LoadedFiles;
         try
@@ -44,29 +50,40 @@ public class Manager : MonoBehaviour
 
         foreach (var loadedFile in LoadedFiles)
         {
+            PokeData data = new PokeData();
             try
             {
                 Logger.LogEvent($"Trying to load data from File: {System.IO.Path.GetFileName(loadedFile)}");
 
-                for (int i = 0; i < 60; i++)
-                {
-
-                    var P = Instantiate(PokemonPrefab, transform.position, transform.rotation, Grid);
-                    P.CreatePokemon(JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(loadedFile)));
-                    if (P != null)
-                    {
-                        Pokedex.Add(P);
-                    }
-                }
-
+                data = JsonConvert.DeserializeObject<PokeData>(File.ReadAllText(loadedFile));
             }
             catch (Exception e)
             {
                 Logger.LogEvent($"Failed to load Pokemon data from File: {System.IO.Path.GetFileName(loadedFile)}\n\tMaybe some of your values are invalid?");
-            } 
+            }
+
+            if (data != null)
+            {
+                try
+                {
+                    var P = Instantiate(PokemonPrefab, transform.position, transform.rotation, Grid);
+                    P.CreatePokemon(data);
+                }
+                catch (Exception e)
+                {
+                    Logger.LogEvent($"Failed to Validate Pokemon Data");
+                    throw;
+                } 
+            }
+            
         }
         
         Logger.CloseLogger();
+
+        var randomPoke = Random.Range(0, Pokedex.Count);
+        Debug.Log($"Displaying pokemon {randomPoke} of name: {Pokedex[randomPoke].PokemonData.Name}");
+        FocusPokemon(Pokedex[randomPoke]);
+        
         
     }
 
@@ -91,6 +108,12 @@ public class Manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            var randomPoke = Random.Range(0, Pokedex.Count);
+            Debug.Log($"Displaying pokemon {randomPoke} of name: {Pokedex[randomPoke].PokemonData.Name}");
+            FocusPokemon(Pokedex[randomPoke]);
+        }
     }
 
     public static void SetLabel(Vector2 position, string name)
@@ -108,5 +131,20 @@ public class Manager : MonoBehaviour
     {
         Label.SetActive(false);
     }
-    
+
+    public static void LoseFocus()
+    {
+        Focus.SetActive(false);
+    }
+
+    public static void FocusPokemon(Pokemon pokemon)
+    {
+        Focus.SetActive(true);
+        PokeDetails.GetComponent<UI_ValueAllocator>().ViewPokemon(pokemon);
+        
+        
+    }
+
+
+
 }

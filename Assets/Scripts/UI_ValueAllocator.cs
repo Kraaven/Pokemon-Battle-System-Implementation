@@ -5,15 +5,15 @@ using UnityEngine;
 using UnityEngine.UIElements;
 public class UI_ValueAllocator : MonoBehaviour
 {
-    private PokeData SampleData;
+    //private PokeData SampleData;
     private VisualElement root;
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
         root = GetComponent<UIDocument>().rootVisualElement;
 
         
-        Invoke("ViewPokemon",2);
+        //Invoke("ViewPokemon",2);
     }
 
     // Update is called once per frame
@@ -22,12 +22,13 @@ public class UI_ValueAllocator : MonoBehaviour
         
     }
 
-    void ViewPokemon()
+    public void ViewPokemon(Pokemon pokemon)
     {
-        SampleData = FindObjectOfType<Manager>().Pokedex[0].PokemonData;
+        var SampleData = pokemon.PokemonData;
+        
         root.Q<Label>("pokemon-name").text = SampleData.Name;
         root.Q<Label>("pokemon-number").text = SampleData.Region;
-
+       
         root.Q<Label>("type1").text = SampleData.Type.ToString();
         root.Q<Label>("type1").style.backgroundColor = SampleData.Type.GetColor();
         root.Q<Label>("hp").text = SampleData.Health.ToString();
@@ -44,8 +45,8 @@ public class UI_ValueAllocator : MonoBehaviour
             //AdjustFontSize(root.Q<Label>($"move{i + 1}"));
         }
 
-        root.Q<Image>("pokemon-image").sprite = FindObjectOfType<Manager>().Pokedex[0].transform.GetChild(0).gameObject
-            .GetComponent<UnityEngine.UI.Image>().sprite;
+        root.Q<Image>("pokemon-image").sprite =
+            pokemon.transform.GetChild(0).GetComponent<UnityEngine.UI.Image>().sprite;
         root.Q<Image>("pokemon-image").scaleMode = ScaleMode.ScaleToFit;
     }
     
