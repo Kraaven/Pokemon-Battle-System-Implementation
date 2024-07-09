@@ -7,6 +7,8 @@ public class UI_ValueAllocator : MonoBehaviour
 {
     //private PokeData SampleData;
     private VisualElement root;
+
+    public bool ViewMoves = false;
     // Start is called before the first frame update
     void OnEnable()
     {
@@ -19,7 +21,19 @@ public class UI_ValueAllocator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            ViewMoves = !ViewMoves;
+            if (ViewMoves)
+            {
+                root.Q<VisualElement>("Moves").style.display = DisplayStyle.None;    
+            }
+            else
+            {
+                root.Q<VisualElement>("Moves").style.display = DisplayStyle.Flex;
+            }
+            
+        }
     }
 
     public void ViewPokemon(Pokemon pokemon)

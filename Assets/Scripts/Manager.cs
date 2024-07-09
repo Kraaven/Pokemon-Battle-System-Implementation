@@ -108,12 +108,7 @@ public class Manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.P))
-        {
-            var randomPoke = Random.Range(0, Pokedex.Count);
-            Debug.Log($"Displaying pokemon {randomPoke} of name: {Pokedex[randomPoke].PokemonData.Name}");
-            FocusPokemon(Pokedex[randomPoke]);
-        }
+        
     }
 
     public static void SetLabel(Vector2 position, string name)

@@ -1,58 +1,162 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <Style src="project://database/Assets/UI%20Toolkit/UI/poke.uss?fileID=7433441132597879392&amp;guid=521c48c030bd84745992388cb21d69a5&amp;type=3#poke" />
-    <ui:VisualElement name="pokemon-card" class="card" style="align-self: center; justify-content: flex-start; align-items: stretch;">
-        <ui:VisualElement name="header" class="header">
-            <ui:Label name="pokemon-name" text="Name" class="title" />
-            <ui:Label name="pokemon-number" text="Kanto" class="number" />
-        </ui:VisualElement>
-        <ui:VisualElement name="content" class="content">
-            <ui:VisualElement name="left-column" class="column">
-                <ui:VisualElement name="types" class="types">
-                    <ui:Label name="type1" text="None" class="type" style="background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: space-around;" />
-                </ui:VisualElement>
-                <ui:Image name="pokemon-image" class="pokemon-image" />
+    <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: flex-start; align-self: center; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; opacity: 1; display: flex; visibility: visible;">
+        <ui:VisualElement name="pokemon-card" class="card" style="align-self: center; justify-content: flex-start; align-items: stretch;">
+            <ui:VisualElement name="header" class="header">
+                <ui:Label name="pokemon-name" text="Name" class="title" />
+                <ui:Label name="pokemon-number" text="Kanto" class="number" />
             </ui:VisualElement>
-            <ui:VisualElement name="right-column" class="column">
-                <ui:VisualElement name="stats" class="section">
-                    <ui:Label text="Stats" class="section-title" />
-                    <ui:VisualElement class="stat-grid" style="flex-wrap: wrap; justify-content: space-around;">
-                        <ui:VisualElement name="VisualElement" class="stat-column">
-                            <ui:VisualElement class="stat-row">
-                                <ui:Label text="HP" class="stat-label" />
-                                <ui:Label name="hp" class="stat-value" />
+            <ui:VisualElement name="content" class="content">
+                <ui:VisualElement name="left-column" class="column">
+                    <ui:VisualElement name="types" class="types">
+                        <ui:Label name="type1" text="None" class="type" style="background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: space-around;" />
+                    </ui:VisualElement>
+                    <ui:Image name="pokemon-image" class="pokemon-image" />
+                </ui:VisualElement>
+                <ui:VisualElement name="right-column" class="column">
+                    <ui:VisualElement name="stats" class="section">
+                        <ui:Label text="Stats" class="section-title" />
+                        <ui:VisualElement class="stat-grid" style="flex-wrap: wrap; justify-content: space-around;">
+                            <ui:VisualElement name="stat-column-1" class="stat-column">
+                                <ui:VisualElement class="stat-row">
+                                    <ui:Label text="HP" class="stat-label" />
+                                    <ui:Label name="hp" class="stat-value" />
+                                </ui:VisualElement>
+                                <ui:VisualElement class="stat-row">
+                                    <ui:Label text="Attack" class="stat-label" />
+                                    <ui:Label name="attack" class="stat-value" />
+                                </ui:VisualElement>
+                                <ui:VisualElement class="stat-row">
+                                    <ui:Label text="Defense" class="stat-label" />
+                                    <ui:Label name="defense" class="stat-value" />
+                                </ui:VisualElement>
                             </ui:VisualElement>
-                            <ui:VisualElement class="stat-row">
-                                <ui:Label text="Attack" class="stat-label" />
-                                <ui:Label name="attack" class="stat-value" />
-                            </ui:VisualElement>
-                            <ui:VisualElement class="stat-row">
-                                <ui:Label text="Defense" class="stat-label" />
-                                <ui:Label name="defense" class="stat-value" />
-                            </ui:VisualElement>
-                        </ui:VisualElement>
-                        <ui:VisualElement class="stat-column">
-                            <ui:VisualElement class="stat-row">
-                                <ui:Label text="Sp. Atk" class="stat-label" />
-                                <ui:Label name="sp-atk" class="stat-value" />
-                            </ui:VisualElement>
-                            <ui:VisualElement class="stat-row">
-                                <ui:Label text="Sp. Def" class="stat-label" />
-                                <ui:Label name="sp-def" class="stat-value" />
-                            </ui:VisualElement>
-                            <ui:VisualElement class="stat-row">
-                                <ui:Label text="Speed" class="stat-label" />
-                                <ui:Label name="speed" class="stat-value" />
+                            <ui:VisualElement name="stat-column-2" class="stat-column">
+                                <ui:VisualElement class="stat-row">
+                                    <ui:Label text="Sp. Atk" class="stat-label" />
+                                    <ui:Label name="sp-atk" class="stat-value" />
+                                </ui:VisualElement>
+                                <ui:VisualElement class="stat-row">
+                                    <ui:Label text="Sp. Def" class="stat-label" />
+                                    <ui:Label name="sp-def" class="stat-value" />
+                                </ui:VisualElement>
+                                <ui:VisualElement class="stat-row">
+                                    <ui:Label text="Speed" class="stat-label" />
+                                    <ui:Label name="speed" class="stat-value" />
+                                </ui:VisualElement>
                             </ui:VisualElement>
                         </ui:VisualElement>
                     </ui:VisualElement>
+                    <ui:VisualElement name="moves" class="section">
+                        <ui:Label text="Moves" class="section-title" />
+                        <ui:VisualElement class="move-grid">
+                            <ui:Label name="move1" class="move" />
+                            <ui:Label name="move2" class="move" />
+                            <ui:Label name="move3" class="move" />
+                            <ui:Label name="move4" class="move" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
                 </ui:VisualElement>
-                <ui:VisualElement name="moves" class="section">
-                    <ui:Label text="Moves" class="section-title" />
-                    <ui:VisualElement class="move-grid">
-                        <ui:Label name="move1" class="move" />
-                        <ui:Label name="move2" class="move" />
-                        <ui:Label name="move3" class="move" />
-                        <ui:Label name="move4" class="move" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Moves" class="moves-panel" style="margin-top: auto; margin-right: auto; margin-bottom: auto; height: 373px; justify-content: center; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-left-width: 0; display: flex; visibility: visible; opacity: 1; overflow: visible;">
+            <ui:VisualElement name="move-card-1" class="move-card" style="background-color: rgb(255, 251, 235); flex-direction: row; height: 75px; border-left-color: rgb(255, 0, 0); border-left-width: 35px; border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0);">
+                <ui:VisualElement name="Body-1" style="flex-grow: 1;">
+                    <ui:VisualElement class="move-card-header" style="height: 12px;">
+                        <ui:VisualElement>
+                            <ui:Label name="move-name-1" text="Thunderbolt" class="move-name" style="height: 15px;" />
+                            <ui:Label name="move-category-1" text="Special" class="move-category" style="height: 19px; width: 121px; padding-top: 2px; padding-left: 2px; font-size: 10px; -unity-text-align: upper-left; margin-bottom: 0; margin-top: 4px; margin-left: 4px;" />
+                        </ui:VisualElement>
+                        <ui:Label name="move-type-1" text="Electric" class="move-type" style="color: rgb(255, 255, 255); background-color: rgb(247, 208, 44); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; height: 19px; width: 62px;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="move-info" style="justify-content: space-around;">
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Power" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-power-1" text="90" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Accuracy" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-accuracy-1" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Effect" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-effect-1" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="move-card-2" class="move-card" style="background-color: rgb(255, 251, 235); flex-direction: row; height: 75px; border-left-color: rgb(255, 0, 0); border-left-width: 35px; border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0);">
+                <ui:VisualElement name="Body-2" style="flex-grow: 1;">
+                    <ui:VisualElement class="move-card-header" style="height: 12px;">
+                        <ui:VisualElement>
+                            <ui:Label name="move-name-2" text="Thunderbolt" class="move-name" style="height: 15px;" />
+                            <ui:Label name="move-category-2" text="Special" class="move-category" style="height: 19px; width: 121px; padding-top: 2px; padding-left: 2px; font-size: 10px; -unity-text-align: upper-left; margin-bottom: 0; margin-top: 4px; margin-left: 4px;" />
+                        </ui:VisualElement>
+                        <ui:Label name="move-type-2" text="Electric" class="move-type" style="color: rgb(255, 255, 255); background-color: rgb(247, 208, 44); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; height: 19px; width: 62px;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="move-info" style="justify-content: space-around;">
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Power" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-power-2" text="90" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Accuracy" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-accuracy-2" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Effect" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-effect-2" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="move-card-3" class="move-card" style="background-color: rgb(255, 251, 235); flex-direction: row; height: 75px; border-left-color: rgb(255, 0, 0); border-left-width: 35px; border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0);">
+                <ui:VisualElement name="Body-3" style="flex-grow: 1;">
+                    <ui:VisualElement class="move-card-header" style="height: 12px;">
+                        <ui:VisualElement>
+                            <ui:Label name="move-name-3" text="Thunderbolt" class="move-name" style="height: 15px;" />
+                            <ui:Label name="move-category-3" text="Special" class="move-category" style="height: 19px; width: 121px; padding-top: 2px; padding-left: 2px; font-size: 10px; -unity-text-align: upper-left; margin-bottom: 0; margin-top: 4px; margin-left: 4px;" />
+                        </ui:VisualElement>
+                        <ui:Label name="move-type-3" text="Electric" class="move-type" style="color: rgb(255, 255, 255); background-color: rgb(247, 208, 44); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; height: 19px; width: 62px;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="move-info" style="justify-content: space-around;">
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Power" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-power-3" text="90" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Accuracy" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-accuracy-3" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Effect" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-effect-3" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="move-card-4" class="move-card" style="background-color: rgb(255, 251, 235); flex-direction: row; height: 75px; border-left-color: rgb(255, 0, 0); border-left-width: 35px; border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0);">
+                <ui:VisualElement name="Body-4" style="flex-grow: 1;">
+                    <ui:VisualElement class="move-card-header" style="height: 12px;">
+                        <ui:VisualElement>
+                            <ui:Label name="move-name-4" text="Thunderbolt" class="move-name" style="height: 15px;" />
+                            <ui:Label name="move-category-4" text="Special" class="move-category" style="height: 19px; width: 121px; padding-top: 2px; padding-left: 2px; font-size: 10px; -unity-text-align: upper-left; margin-bottom: 0; margin-top: 4px; margin-left: 4px;" />
+                        </ui:VisualElement>
+                        <ui:Label name="move-type-4" text="Electric" class="move-type" style="color: rgb(255, 255, 255); background-color: rgb(247, 208, 44); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; height: 19px; width: 62px;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="move-info" style="justify-content: space-around;">
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Power" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-power-4" text="90" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Accuracy" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-accuracy-4" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
+                        <ui:VisualElement class="move-stat">
+                            <ui:Label text="Effect" class="move-stat-label" style="margin-bottom: -8px;" />
+                            <ui:Label name="move-effect-4" text="100" class="move-stat-value" />
+                        </ui:VisualElement>
                     </ui:VisualElement>
                 </ui:VisualElement>
             </ui:VisualElement>
